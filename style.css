@@ -1,0 +1,47 @@
+/*
+Theme Name: 1 on 1
+Theme URI: http://1on1academictutors.com
+Description: White and clean theme almost without css styles. Fonts and colors will be default of your browser.
+Version: 1.0
+Author: Pushpendra
+Author URI: http://www.pushpendra.net
+Tags: white, simple, fixed width, two columns, widgets, clean
+*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+a img {
+	border: none;
+	}
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+/* End Images */
